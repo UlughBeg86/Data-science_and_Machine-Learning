@@ -24,13 +24,13 @@ climate trends. Therefore, careful consideration is necessary when performing tr
 selecting input features.
 ###### For the input feature forecasting, we tested the linear trend model and the random walk with drift
 model. Finally, we determined the ARIMA model as the optimal approach.
-● For neural network training, we noticed the model was overfitting on the test set. However, we
+- For neural network training, we noticed the model was overfitting on the test set. However, we
 implemented a range of optimization techniques and ultimately attained optimal results.
 Future Work
-● Seeking professional advice on feature selection to improve neural network performance
-● Collecting modern-day data from instrumental records to develop better models
-● Adopting a more sophisticated neural network model such as Recurrent Neural Network (RNNs)
+- Seeking professional advice on feature selection to improve neural network performance
+- Collecting modern-day data from instrumental records to develop better models
+- Adopting a more sophisticated neural network model such as Recurrent Neural Network (RNNs)
 or LSTM optimized for time series data
 
-Presentation
+- Presentation
 https://www.erdosinstitute.org/certificates/may-summer-2024/data-science-boot-camp/rexiati-dilimulati
