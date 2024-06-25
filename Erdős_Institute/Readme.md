@@ -32,5 +32,5 @@ implemented a range of optimization techniques and ultimately attained optimal r
 - Adopting a more sophisticated neural network model such as Recurrent Neural Network (RNNs)
 or LSTM optimized for time series data
 
-- Presentation
-https://www.erdosinstitute.org/certificates/may-summer-2024/data-science-boot-camp/rexiati-dilimulati
+### Presentation
+- https://www.erdosinstitute.org/certificates/may-summer-2024/data-science-boot-camp/rexiati-dilimulati
