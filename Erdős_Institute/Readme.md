@@ -32,8 +32,8 @@ implemented a range of optimization techniques and ultimately attained optimal r
 ### Future Work
 - Seeking professional advice on feature selection to improve neural network performance
 - Collecting modern-day data from instrumental records to develop better models
-- Adopting a more sophisticated neural network model such as Recurrent Neural Network (RNNs)
-or LSTM optimized for time series data
+- Adopting a more sophisticated neural network model such as <b> Recurrent Neural Network (RNNs)</b>
+or <b>LSTM</b> optimized for time series data
 
 ### Presentation
 - https://www.erdosinstitute.org/certificates/may-summer-2024/data-science-boot-camp/rexiati-dilimulati
