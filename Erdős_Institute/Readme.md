@@ -22,7 +22,7 @@ over every 200-year interval, with some data exhibiting significant fluctuations
 industrialization. In fact, These variations could potentially serve as more reliable indicators for future
 climate trends. Therefore, careful consideration is necessary when performing train-test splitting and
 selecting input features.
-###### For the input feature forecasting, we tested the linear trend model and the random walk with drift
+- For the input feature forecasting, we tested the linear trend model and the random walk with drift
 model. Finally, we determined the ARIMA model as the optimal approach.
 ● For neural network training, we noticed the model was overfitting on the test set. However, we
 implemented a range of optimization techniques and ultimately attained optimal results.
