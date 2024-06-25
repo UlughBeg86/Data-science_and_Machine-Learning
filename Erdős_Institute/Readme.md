@@ -26,7 +26,7 @@ selecting input features.
 model. Finally, we determined the ARIMA model as the optimal approach.
 - For neural network training, we noticed the model was overfitting on the test set. However, we
 implemented a range of optimization techniques and ultimately attained optimal results.
-Future Work
+### Future Work
 - Seeking professional advice on feature selection to improve neural network performance
 - Collecting modern-day data from instrumental records to develop better models
 - Adopting a more sophisticated neural network model such as Recurrent Neural Network (RNNs)
