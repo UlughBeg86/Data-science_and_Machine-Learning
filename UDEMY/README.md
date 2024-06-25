@@ -1,4 +1,4 @@
-In these UDEMY online data science and machine learning Bootcamp, I have completed all of the courses, exercises and capstone projects. From the courses, I have gain
+In this UDEMY online data science and machine learning Bootcamp, I have completed all of the courses, exercises and capstone projects. From the courses, I have gain
 
 #### 1.Data Analysis:
 Numpy: Numerical computing with arrays and matrices.
