@@ -10,5 +10,5 @@ In this UDEMY online <b>data science and machine learning Bootcamp</b>, I have c
 
 #### 3. Machine Learning:
 <b>Scikit-learn</b>: Implementing machine learning algorithms, including both supervised and unsupervised learning methods.
-<b>Supervised Learning</b>: Techniques such as linear regression, logistic regression, decision trees, random forests, support vector machines, and neural networks.
-<b>Unsupervised Learning</b>: Techniques such as clustering (e.g., K-means, hierarchical clustering), dimensionality reduction (e.g., PCA, t-SNE).
+- <b>Supervised Learning</b>: Techniques such as linear regression, logistic regression, decision trees, random forests, support vector machines, and neural networks.
+- <b>Unsupervised Learning</b>: Techniques such as clustering (e.g., K-means, hierarchical clustering), dimensionality reduction (e.g., PCA, t-SNE).
