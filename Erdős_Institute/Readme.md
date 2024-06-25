@@ -26,7 +26,7 @@ industrialization. In fact, These variations could potentially serve as more rel
 climate trends. Therefore, careful consideration is necessary when performing train-test splitting and
 selecting input features.
 - For the input feature forecasting, we tested the linear trend model and the random walk with drift
-model. Finally, we determined the ARIMA model as the optimal approach.
+model. Finally, we determined the <b>ARIMA</b> model as the optimal approach.
 - For neural network training, we noticed the model was overfitting on the test set. However, we
 implemented a range of optimization techniques and ultimately attained optimal results.
 ### Future Work
