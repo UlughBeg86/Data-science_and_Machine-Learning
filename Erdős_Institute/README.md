@@ -1,4 +1,4 @@
-Climate Predictions Using Machine Learning Approaches
+Climate Predictions Using Machine Learning Approaches/
 Abuduaini Niyazi, Rexiati Dilimulati, Aihemaiti Maitituerdi
 Overview
 
