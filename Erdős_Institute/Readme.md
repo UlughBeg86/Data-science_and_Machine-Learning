@@ -1,5 +1,8 @@
 # Climate Predictions Using Machine Learning Approaches
-   ## Abuduaini Niyazi, Rexiati Dilimulati, Aihemaiti Maitituerdi
+<div style="text-align: center;">
+         ## Abuduaini Niyazi, Rexiati Dilimulati, Aihemaiti Maitituerdi
+</div>
+   
 ### Overview
 In contrast to modern climate models, which predict that precipitation will increase as temperatures rise,
 the Horn of Africa has experienced severe and recurring droughts over the past few decades. The
