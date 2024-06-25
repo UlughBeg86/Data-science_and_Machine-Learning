@@ -16,7 +16,7 @@ the different sampling resolutions of input features, we adjusted them according
 of the output feature through a combination of scaling and interpolation techniques.
 Approaches
 First, we trained a neural network using historical data. Following that, we forecasted the input features
-for the future time frame using both the baseline model and the ARIMA model. Finally, we used the
+for the future time frame using both the <b>baseline model</b> and the <b>ARIMA model</b>. Finally, we used the
 trained neural network to forecast the future climate data.
 ### Results
 Our project encountered significant challenges, primarily concerning the characteristics of the dataset and
@@ -25,8 +25,7 @@ over every 200-year interval, with some data exhibiting significant fluctuations
 industrialization. In fact, These variations could potentially serve as more reliable indicators for future
 climate trends. Therefore, careful consideration is necessary when performing train-test splitting and
 selecting input features.
-- For the input feature forecasting, we tested the linear trend model and the random walk with drift
-model. Finally, we determined the <b>ARIMA</b> model as the optimal approach.
+- For the input feature forecasting, we tested the <b>linear trend model</b> and the <b>random walk with drift model</b>. Finally, we determined the <b>ARIMA</b> model as the optimal approach.
 - For neural network training, we noticed the model was overfitting on the test set. However, we
 implemented a range of optimization techniques and ultimately attained optimal results.
 ### Future Work
