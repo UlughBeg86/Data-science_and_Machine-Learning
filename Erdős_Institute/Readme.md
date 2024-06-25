@@ -1,13 +1,13 @@
 # Climate Predictions Using Machine Learning Approaches
-## Abuduaini Niyazi, Rexiati Dilimulati, Aihemaiti Maitituerdi
-Overview
+   ## Abuduaini Niyazi, Rexiati Dilimulati, Aihemaiti Maitituerdi
+### Overview
 In contrast to modern climate models, which predict that precipitation will increase as temperatures rise,
 the Horn of Africa has experienced severe and recurring droughts over the past few decades. The
 region's agriculture-based economies have suffered greatly as a result of these droughts. Therefore, the
 quality of long-term weather prediction has become fundamentally important. In this project, we use
 multiple past climate proxy records to build a machine learning model to determine whether we can
 predict the future climate of the Horn of Africa.
-Dataset
+### Dataset
 The dataset used in this project is sourced from previously published scientific research articles. Given
 the different sampling resolutions of input features, we adjusted them accordingly to match the resolution
 of the output feature through a combination of scaling and interpolation techniques.
