@@ -1,5 +1,4 @@
 # Climate Predictions Using Machine Learning Approaches
-<div style="text-align: center;">
    ## Abuduaini Niyazi, Rexiati Dilimulati, Aihemaiti Maitituerdi
 ### Overview
 In contrast to modern climate models, which predict that precipitation will increase as temperatures rise,
