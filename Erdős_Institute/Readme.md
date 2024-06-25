@@ -1,6 +1,6 @@
 # Climate Predictions Using Machine Learning Approaches
 <div style="text-align: center;">
-         ## Abuduaini Niyazi, Rexiati Dilimulati, Aihemaiti Maitituerdi
+Abuduaini Niyazi, Rexiati Dilimulati, Aihemaiti Maitituerdi
 </div>
    
 ### Overview
