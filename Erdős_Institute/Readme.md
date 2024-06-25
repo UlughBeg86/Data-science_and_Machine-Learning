@@ -1,6 +1,6 @@
 # Climate Predictions Using Machine Learning Approaches
 
-#### Abuduaini Niyazi, Rexiati Dilimulati, Aihemaiti Maitituerdi
+#### Abuduaini Niyazi, Rexiati Dilimulati (Rishat Dilmurat), Aihemaiti Maitituerdi
 
    
 ### Overview
